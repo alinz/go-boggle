@@ -1,8 +1,8 @@
 ## Go-Boggle Solver
-This is an attempt in 15 min to solve the Boggle in go.
+This was an attempt in 15 min to solve the Boggle in go.
 
 As soon as you run this code, my simple graph tries to find all possible words and call the callback function for every word it finds.
-Use that function to check your dictionary.
+Use that function to check against your dictionary.
 
 
 ## Input file format
